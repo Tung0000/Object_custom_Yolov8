@@ -1,0 +1,5 @@
+google-colab
+matplotlib
+opencv-python
+roboflow
+ultralytics
